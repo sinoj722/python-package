@@ -9,13 +9,13 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-     name="ajay-square-1.0.4",
+     name="sinoj-square-1.0.4",
      version="1.0.8",
      description="It squares the number",
      long_description=README,
      long_description_content_type="text/markdown",
-     author="Ajay Ratanwar",
-     author_email="ajayratanwar95@gmail.com",
+     author="sinoj",
+     author_email="sinoj3094@gmail.com",
      license="MIT",
      classifiers=[
         "License :: OSI Approved :: MIT License",
